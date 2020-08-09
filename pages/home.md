@@ -9,9 +9,12 @@ eleventyNavigation:
 ---
 # Welcome
 
+<hr/>
     <div class="bingwidget" data-type="covid19" data-market="en-us" data-language="en-us" data-location-id="/Gambia"></div>
 
     <script src="//www.bing.com/widget/bootstrap.answer.js" async=""></script>
+
+<hr/>
 
 This is a template for building a simple blog website with the [Eleventy static site generator](https://www.11ty.io), with deployment to [Netlify](https://www.netlify.com).
 
